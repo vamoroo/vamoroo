@@ -1,6 +1,6 @@
 ```bash
 $ whoami
-VAM
+VAMORO
 
 $ mindset
 "I break things to understand them. Then I build them properly."
